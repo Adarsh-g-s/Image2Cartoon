@@ -16,7 +16,6 @@ if uploadImage is None:
 else:
     # Read image
     uploadedImage = Image.open(uploadImage)
-    # uploadedImage = cv2.imread("C:\\Users\\agarakah\\Desktop\\26891940.jpg")
     st.image(uploadedImage, use_column_width=True)
     # Convert image to numpy array
     uploadedImage = np.asarray(uploadedImage)

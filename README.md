@@ -7,9 +7,9 @@ The filtered image is then saved as the cartooon image.
 
 This app has been deployed using the popular streamlit[1] API
 
-<!-- [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Adarsh-g-s/Image2Cartoon/Img2Cartoon/) -->
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/Adarsh-g-s/Image2Cartoon/Img2Cartoon/)
 
-On running the program a streamlit webpage appears
+On running the program/web app a streamlit webpage appears
 ![StreamlitFrontPage](https://user-images.githubusercontent.com/26891940/116975949-bed10600-acc0-11eb-9c85-9455563559e8.PNG)
 Please upload an image to convert to an animated image
 
